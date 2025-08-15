@@ -70,5 +70,5 @@
 <p align="center">
   Thank you for visiting!   
   <br>
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Amy-codes-stuff&style=flat-square" alt="Profile Views" />
 </p>
