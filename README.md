@@ -61,8 +61,8 @@
 
 ### 📫 Connect With Me
 
-* ✉️ [Email](amisha120305@gmail.com)
-* 💼 [LinkedIn](www.linkedin.com/in/amisha-tiwarekar)
+* ✉️ [Email](mailto:amisha120305@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/amisha-tiwarekar)
 * 🖼️ Check out my **data projects and visual explorations** in pinned repos!
 
 ---
