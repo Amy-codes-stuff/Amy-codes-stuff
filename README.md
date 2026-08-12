@@ -8,14 +8,11 @@
 
 ### 👩‍💻 About Me
 
-* 🎓 I'm a 3rd-year Computer Engineering student
-* 📊 Passionate about and skilled in **Data Analytics**
+* 🎓 I'm a final year Computer Engineering student
+* 📊 Passionate about and skilled in **Data Analytics and Data Science**
 * ⚙️ Skilled in **C++, Python**, and **OOP concepts**
-* 🎮 Some experience in **Game Development** using Unity
 * 🧠 Enthusiastic about **visual learning, design**, and **storytelling through code**
 * ✍️ I write poetry sometimes — *where code meets emotions!*
-* 💼 Currently a **Management Executive at Google Developer Student Clubs (GDSC)** on campus
-
 ---
 
 ### 💻 Tech Stack
